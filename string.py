@@ -7,7 +7,7 @@ elif(marks > 70):
     print("Grade A")
 
 else:
-    print("kya baat he bhi Toper he tu bhi")
+    print("good bro")
 
 
 
